@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+pyttsx3
+SpeechRecognition
+pyaudio
+Pillow-PIL
+face-recognition
+barcode
